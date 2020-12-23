@@ -10,3 +10,5 @@ https://www.physionet.org/about/database/
 repository
 modenaxe / awesome-biomechanics 
 
+biomechanist.net
+https://www.biomechanist.net/multimedia-libraries/motion-library/
