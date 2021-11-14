@@ -8,7 +8,7 @@ PhysioNet
 https://www.physionet.org/about/database/
 
 repository
-modenaxe / awesome-biomechanics 
+modenaxe / [awesome-biomechanics](https://github.com/doscsy12/awesome-biomechanics)
 
 biomechanist.net
 https://www.biomechanist.net/multimedia-libraries/motion-library/
