@@ -12,3 +12,6 @@ modenaxe / [awesome-biomechanics](https://github.com/doscsy12/awesome-biomechani
 
 biomechanist.net
 https://www.biomechanist.net/multimedia-libraries/motion-library/
+
+gait data of older adults
+https://data.mendeley.com/datasets/xgw6bg3g8h/1
