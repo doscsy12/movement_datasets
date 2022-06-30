@@ -1,8 +1,9 @@
 # movement_datasets
 Available movement-related datasets.
 
-Mobilize Center 
+[Mobilize Center](https://mobilize.stanford.edu/data/available-datasets/) 
 <br> https://mobilize.stanford.edu/data/available-datasets/
+These datasets include inertial measurement unit (IMU) data, X-rays, MRIs, and more from both healthy and clinical populations.
 
 PhysioNet
 <br> https://www.physionet.org/about/database/
