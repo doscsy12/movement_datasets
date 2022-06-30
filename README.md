@@ -1,5 +1,5 @@
-# movement_datasets
-Available movement-related datasets.
+# Movement-related datasets
+This is my own list of available movement-related datasets, that I refer to when I need to test new methods into my research.
 
 [Mobilize Center](https://mobilize.stanford.edu/data/available-datasets/) 
 <br> These datasets include inertial measurement unit (IMU) data, X-rays, MRIs, and more from both healthy and clinical populations.
